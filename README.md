@@ -2,7 +2,6 @@
 
 Here’s a comprehensive list of commands specific to AIX (Advanced Interactive eXecutive), IBM's Unix operating system.
 
-```markdown
 # AIX Commands
 
 ## System Information
